@@ -1,0 +1,8 @@
+Tools
+IDE - Eclipse
+Jasper - iReport v 3.0.0
+Ant build - Apache ANT 1.7.1
+Java version - jdk1.6.0_45
+Sqlyog - MySql
+Notepad ++
+Barcode scanner - 
